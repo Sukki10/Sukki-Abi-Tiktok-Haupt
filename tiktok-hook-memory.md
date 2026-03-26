@@ -1,5 +1,5 @@
 # Sukki Abi — Hook Memory System
-*Zuletzt aktualisiert: 2026-03-26 | Automatisch gebaut aus tiktok-log.md + tiktok-briefs-archiv.md*
+*Zuletzt aktualisiert: 2026-03-26 22:15 CET | V007 Live-Update integriert*
 
 ---
 
@@ -8,7 +8,7 @@
 | Hook-Typ | Trigger-Code | Ø Completion | Ø Shares | Ø Saves | Sample-Größe | Status |
 |----------|-------------|-------------|----------|---------|--------------|--------|
 | VERLUST + ZEITDRUCK | [C]+[D] | 47% | 2.432 | 4.761 | 2 | ✅ TOP-PATTERN |
-| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 35.1% | 860 | 1.940 | 1 | ✅ STARK |
+| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 37.6% | 860 | 1.940 | 2 | ✅ STARK |
 | VERLUST + DIREKTE ANSPRACHE | [C]+[A] | 30.3% | 2.108 | 2.145 | 1 | ✅ STARK |
 | IDENTITÄT + KONFLIKT | [E]+[B] | 19.2% | 1.387 | 1.934 | 1 | ⚠️ MITTEL |
 | VERLUST + IDENTITÄT | [C]+[E] | 17.5% | 1.362 | 2.275 | 1 | ⚠️ MITTEL |

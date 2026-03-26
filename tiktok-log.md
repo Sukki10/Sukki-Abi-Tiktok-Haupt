@@ -1,5 +1,5 @@
 # Sukki Abi — TikTok Video Performance Log
-*Zuletzt aktualisiert: 2026-03-25 | Gesamt analysiert: 6 | Format: Nur Swipe*
+*Zuletzt aktualisiert: 2026-03-26 22:15 CET | Gesamt analysiert: 7 | Format: Nur Swipe | V007 Live-Update nach 1h Post*
 
 ---
 
@@ -16,6 +16,17 @@
 
 ---
 
+### V007 — #fürdich #mama #eltern #deutschtiktok #fyp
+- **Datum:** 26.03.2026
+- **Views:** 369 | **Completion:** 40% | **Saves:** 1 | **Neue Follower:** 0
+- **Gesamtspielzeit:** 52 Minuten | **Slides aufgerufen:** 3,6 von 9
+- **Traffic:** 93% FYP | 69% Non-Follower | 31% Follower
+- **Hook:** Hook B — „Deine Mama fragt immer. Du antwortest seltener." [E]+[A] (Identität + Direkte Ansprache)
+- **Sound:** campxfire — original sound
+- **Status:** LIVE nach 1h (22:11 CET) — finale Stats morgen 09:00
+- **EARLY SIGNAL:** 40% Completion über Hook B Durchschnitt (35,1%) | 93% FYP = Algorithmus mag es | User-Choice Hook B > empfohlener Hook A — funktioniert
+
+---
 
 ### V006 — #fürdich #gier #ramadan #essen #viral
 - **Datum:** 19.02.2026
