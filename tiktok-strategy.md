@@ -64,6 +64,16 @@
 9. Konsequenzen von Entscheidungen
 10. Selbstakzeptanz / „Du bist komisch"-Format
 
+## KRITISCHE ERKENNTNIS: Thema allein reicht nicht — Hook entscheidet
+
+**Mama-Thema Beweis (26.03.2026):**
+- V005 Mama + Hook [C]+[E] = **17.5% Completion**
+- V007 Mama + Hook [E]+[A] = **40% Completion**
+
+→ Gleiches Thema, falscher Hook = halb so gut.
+→ Thema wählen ist nicht genug. Hook-Typ ist genauso wichtig.
+→ Für Mama/Familie-Themen: [E]+[A] IDENTITÄT+DIREKTE ANSPRACHE bevorzugen, nicht [C]+[E]
+
 ## Themen vermeiden
 - Direkte Ratschläge ohne Story-Rahmen
 - Englische Phrasen im Text
