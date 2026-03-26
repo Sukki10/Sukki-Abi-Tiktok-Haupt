@@ -5,16 +5,21 @@
 
 ## Hook-Typ Performance Tabelle
 
-| Hook-Typ | Trigger-Code | Ø Completion | Ø Shares | Ø Saves | Sample-Größe | Status |
-|----------|-------------|-------------|----------|---------|--------------|--------|
-| VERLUST + ZEITDRUCK | [C]+[D] | 47% | 2.432 | 4.761 | 2 | ✅ TOP-PATTERN |
-| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 37.6% | 860 | 1.940 | 2 | ✅ STARK |
-| VERLUST + DIREKTE ANSPRACHE | [C]+[A] | 30.3% | 2.108 | 2.145 | 1 | ✅ STARK |
-| IDENTITÄT + KONFLIKT | [E]+[B] | 19.2% | 1.387 | 1.934 | 1 | ⚠️ MITTEL |
-| VERLUST + IDENTITÄT | [C]+[E] | 17.5% | 1.362 | 2.275 | 1 | ⚠️ MITTEL |
-| DIREKTE ANSPRACHE + KONFLIKT | [A]+[B] | 16.4% | 2.904 | 1.026 | 1 | ⚠️ MITTEL (hohe Shares, low Completion) |
-| ZEITDRUCK allein | [D] | — | — | — | 0 | 🔬 UNGETESTET |
-| KONFLIKT + ZEITDRUCK | [B]+[D] | — | — | — | 0 | 🔬 UNGETESTET |
+**WICHTIG: Sample-Größe beachten.**
+- Sample 1 = PRELIMINARY (1 Datenpunkt reicht nicht für sichere Aussage)
+- Sample 2+ = BELASTBAR
+- Für Patterns mit Sample 1: account-history.md (693 Posts) zur Validierung nutzen
+
+| Hook-Typ | Trigger-Code | Ø Completion | Ø Shares | Ø Saves | Sample-Größe | Zuverlässigkeit | Status |
+|----------|-------------|-------------|----------|---------|--------------|-----------------|--------|
+| VERLUST + ZEITDRUCK | [C]+[D] | 47% | 2.432 | 4.761 | 2 | BELASTBAR | ✅ TOP-PATTERN |
+| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 37.6% | 860 | 1.940 | 2 | BELASTBAR (V007 noch EARLY) | ✅ STARK |
+| VERLUST + DIREKTE ANSPRACHE | [C]+[A] | 30.3% | 2.108 | 2.145 | 1 | PRELIMINARY | ✅ STARK |
+| IDENTITÄT + KONFLIKT | [E]+[B] | 19.2% | 1.387 | 1.934 | 1 | PRELIMINARY | ⚠️ MITTEL |
+| VERLUST + IDENTITÄT | [C]+[E] | 17.5% | 1.362 | 2.275 | 1 | PRELIMINARY | ⚠️ MITTEL |
+| DIREKTE ANSPRACHE + KONFLIKT | [A]+[B] | 16.4% | 2.904 | 1.026 | 1 | PRELIMINARY | ⚠️ MITTEL (hohe Shares, low Completion) |
+| ZEITDRUCK allein | [D] | — | — | — | 0 | UNGETESTET | 🔬 |
+| KONFLIKT + ZEITDRUCK | [B]+[D] | — | — | — | 0 | UNGETESTET | 🔬 |
 
 ---
 
