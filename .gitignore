@@ -1,0 +1,12 @@
+# Nicht auf GitHub
+*.env
+.env*
+secrets.*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporäre Dateien
+*.tmp
+*.bak
