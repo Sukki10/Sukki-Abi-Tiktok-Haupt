@@ -27,10 +27,10 @@
 - Empfohlene Sounds: distorted memories, 3 am walk
 
 **RANG 2 — IDENTITÄT + DIREKTE ANSPRACHE [E]+[A]**
-- Ø Completion: 35.1% (V003: Gedanken)
+- Ø Completion: 37.6% (V003: 35.1% + V007 EARLY: 40%) — Ø wird nach V007 finale Stats aktualisiert
 - Ø Shares: 860 | Ø Saves: 1.940
-- Beste Themen: Selbstbild, innere Wahrheit, Charakter
-- Empfohlene Sounds: Riff 2
+- Beste Themen: Selbstbild, innere Wahrheit, Charakter, Mama/Familie
+- Empfohlene Sounds: Riff 2, campxfire
 
 **RANG 3 — VERLUST + DIREKTE ANSPRACHE [C]+[A]**
 - Ø Completion: 30.3% (V006: Ramadan/Gier)
@@ -58,15 +58,40 @@
 ## Hook-Test-Log
 *(Wird nach jedem analyze-Modus erweitert)*
 
-| Datum | Hook-Text (Auszug) | Typ-Codes | Completion | Shares | Saves | Neue Follower |
-|-------|--------------------|-----------|-----------|--------|-------|---------------|
-| 19.02.2026 | Gier-Thema Ramadan | [C]+[A] | 30.3% | 2.108 | 2.145 | 200 |
-| 03.12.2025 | Mama-Thema | [C]+[E] | 17.5% | 1.362 | 2.275 | 158 |
-| 02.12.2025 | Vater/Zeit | [C]+[D] | 47% | 1.960 | 1.588 | 133 |
-| 04.10.2025 | Ich bin noch nicht... | [E]+[A] | 35.1% | 860 | 1.940 | 80 |
-| 29.11.2025 | Pass auf was du sagst | [E]+[B] | 19.2% | 1.387 | 1.934 | 156 |
-| 21.05.2025 | Kindheit/Nostalgie | [A]+[B] | 16.4% | 2.904 | 1.026 | 55 |
-| 15.01.2023 | Nostalgie Benchmark | [C]+[D] | — (640K Views) | 8.446 | 7.934 | 1.300 |
+| Datum | Hook-Text (Auszug) | Typ-Codes | Completion | Shares | Saves | Neue Follower | Confidence |
+|-------|--------------------|-----------|-----------|--------|-------|---------------|------------|
+| 26.03.2026 | Deine Mama fragt immer. Du antwortest seltener. | [E]+[A] | 40% | — | 1 | 0 | EARLY SIGNAL (<12h) — finale Stats ausstehend |
+| 19.02.2026 | Gier-Thema Ramadan | [C]+[A] | 30.3% | 2.108 | 2.145 | 200 | CONFIRMED |
+| 03.12.2025 | Mama-Thema | [C]+[E] | 17.5% | 1.362 | 2.275 | 158 | CONFIRMED |
+| 02.12.2025 | Vater/Zeit | [C]+[D] | 47% | 1.960 | 1.588 | 133 | CONFIRMED |
+| 04.10.2025 | Ich bin noch nicht... | [E]+[A] | 35.1% | 860 | 1.940 | 80 | CONFIRMED |
+| 29.11.2025 | Pass auf was du sagst | [E]+[B] | 19.2% | 1.387 | 1.934 | 156 | CONFIRMED |
+| 21.05.2025 | Kindheit/Nostalgie | [A]+[B] | 16.4% | 2.904 | 1.026 | 55 | CONFIRMED |
+| 15.01.2023 | Nostalgie Benchmark | [C]+[D] | — (640K Views) | 8.446 | 7.934 | 1.300 | CONFIRMED |
+
+---
+
+## WINNER-CONFIDENCE-LAYER (für alle Agenten)
+
+**Unterscheide immer:**
+- EARLY SIGNAL = < 12h Daten → KEIN harter Winner-Modus. Nur als Hinweis nutzen.
+- PRELIMINARY WINNER = 12h bis < 24h → Vorsichtige Winner-Tendenz erlaubt
+- CONFIRMED WINNER = >= 24h + Completion >35% → Winner-Modus aktivieren
+
+**Im Output immer anzeigen:**
+`WINNER-STATUS: [EARLY SIGNAL / PRELIMINARY / CONFIRMED / KEIN WINNER]`
+
+---
+
+## DATA-FRESHNESS-REGELN (für alle Agenten)
+
+**Pruefe Datum des letzten Eintrags in tiktok-log.md:**
+- AKTUELL = <= 48h → normaler Betrieb, Winner-Check erlaubt
+- STALE = > 48h bis 7 Tage → Warnung anzeigen, Winner-Status als unsicher markieren, Trends hoeher gewichten
+- KRITISCH VERALTET = > 7 Tage → Winner-Check deaktiviert, kein falsches Vertrauen, User-Reminder: "analyze + git push ausfuehren"
+
+**Wenn STALE oder KRITISCH VERALTET:**
+Erste Zeile des Outputs: `⚠️ DATEN [X TAGE ALT] — bitte analyze ausfuehren + git push`
 
 ---
 
