@@ -1,5 +1,11 @@
 # Sukki Abi — TikTok Video Performance Log
-*Zuletzt aktualisiert: 2026-03-26 22:15 CET | Gesamt analysiert: 7 | Format: Nur Swipe | V007 Live-Update nach 1h Post*
+*Zuletzt aktualisiert: 2026-03-27 | Gesamt analysiert: 7 | Format: Nur Swipe | V007 finale Stats ausstehend*
+
+---
+
+## SYSTEM-PFLICHT-FELDER (alle Videos)
+- Views | Completion | Shares | Saves | Neue Follower | **Follower/1K Views**
+- Follower/1K Views Ziel: >1.0 | Aktuell Ø: ~0.85
 
 ---
 
@@ -18,20 +24,20 @@
 
 ### V007 — #fürdich #mama #eltern #deutschtiktok #fyp
 - **Datum:** 26.03.2026
-- **Views:** 369 | **Completion:** 40% | **Saves:** 1 | **Neue Follower:** 0
+- **Views:** 369 | **Completion:** 40% | **Saves:** 1 | **Neue Follower:** 0 | **Follower/1K Views:** — (EARLY SIGNAL)
 - **Gesamtspielzeit:** 52 Minuten | **Slides aufgerufen:** 3,6 von 9
 - **Traffic:** 93% FYP | 69% Non-Follower | 31% Follower
 - **Hook:** Hook B — „Deine Mama fragt immer. Du antwortest seltener." [E]+[A] (Identität + Direkte Ansprache)
 - **Sound:** campxfire — original sound
-- **Status:** LIVE nach 1h (22:11 CET) — finale Stats morgen 09:00
-- **EARLY SIGNAL:** 40% Completion über Hook B Durchschnitt (35,1%) | 93% FYP = Algorithmus mag es | User-Choice Hook B > empfohlener Hook A — funktioniert
+- **WINNER-CONFIDENCE:** EARLY SIGNAL — finale Stats ausstehend. KEIN harter Winner bis >24h bestätigt.
+- **Signal:** 40% Completion über [E]+[A] Durchschnitt | 93% FYP positiv | Hook B > empfohlener Hook A
 
 ---
 
 ### V006 — #fürdich #gier #ramadan #essen #viral
 - **Datum:** 19.02.2026
 - **Views:** 243K | **Likes:** 33K | **Kommentare:** 122 | **Shares:** 2.108 | **Saves:** 2.145
-- **Neue Follower:** 200
+- **Neue Follower:** 200 | **Follower/1K Views:** 0.82
 - **Ø Wiedergabe:** 12.39s | **Completion:** 30.3%
 - **Traffic:** 75.4% FYP | 19.9% Profil | <0.1% Sound
 - **Suchanfragen:** "Iftar" 5.5%, "essen ramadan" 4.6%
@@ -42,7 +48,7 @@
 ### V005 — #fürdich #mama #deep #viral
 - **Datum:** 03.12.2025
 - **Views:** 171K | **Likes:** 20K | **Kommentare:** 105 | **Shares:** 1.362 | **Saves:** 2.275
-- **Neue Follower:** 158
+- **Neue Follower:** 158 | **Follower/1K Views:** 0.92
 - **Ø Wiedergabe:** 11.23s | **Completion:** 17.5%
 - **Traffic:** 71.3% FYP | 23.5% Profil | <0.1% Sound
 - **Suchanfragen:** "Mama deep" 10.8%, "Deep mama" 7.0%
@@ -53,7 +59,7 @@
 ### V004 — #fürdich #deep #vater #zeit
 - **Datum:** 02.12.2025
 - **Views:** 145K | **Likes:** 14K | **Kommentare:** 36 | **Shares:** 1.960 | **Saves:** 1.588
-- **Neue Follower:** 133
+- **Neue Follower:** 133 | **Follower/1K Views:** 0.92
 - **Ø Wiedergabe:** 8.47s | **Completion:** 47%
 - **Traffic:** 76.5% FYP | 17.9% Profil | <0.1% Sound
 - **Suchanfragen:** "zeiten ändern sich" 28.0%, "morgens früh abends spät" 8.0%
@@ -64,7 +70,7 @@
 ### V003 — #fyp #fürdich #gedanken
 - **Datum:** 04.10.2025
 - **Views:** 144K | **Likes:** 15K | **Kommentare:** 36 | **Shares:** 860 | **Saves:** 1.940
-- **Neue Follower:** 80
+- **Neue Follower:** 80 | **Follower/1K Views:** 0.56
 - **Ø Wiedergabe:** 7s | **Completion:** 35.1%
 - **Traffic:** 57.8% FYP | 29.7% Profil | <0.1% Sound
 - **Suchanfragen:** "Ich bin noch lange nicht der Mensch der ich sein möchte aber" 20.0%, "alles auf sich beziehen" 13.3%
@@ -75,7 +81,7 @@
 ### V002 — #fürdich #herz #worte #deep
 - **Datum:** 29.11.2025
 - **Views:** 142K | **Likes:** 15K | **Kommentare:** 41 | **Shares:** 1.387 | **Saves:** 1.934
-- **Neue Follower:** 156
+- **Neue Follower:** 156 | **Follower/1K Views:** 1.10
 - **Ø Wiedergabe:** 8.18s | **Completion:** 19.2%
 - **Traffic:** 60.5% FYP | 32.3% Profil | <0.1% Sound
 - **Suchanfragen:** "pass auf was du sagst" 39.6%, "wenn du dich über jemanden lustig machst" 5.5%
@@ -86,7 +92,7 @@
 ### V001 — #fürdich #kindheit #nostalgi (Übernachtung)
 - **Datum:** 21.05.2025
 - **Views:** 129K | **Likes:** 16K | **Kommentare:** 167 | **Shares:** 2.904 | **Saves:** 1.026
-- **Neue Follower:** 55
+- **Neue Follower:** 55 | **Follower/1K Views:** 0.43
 - **Ø Wiedergabe:** 10.3s | **Completion:** 16.4%
 - **Traffic:** 84.3% FYP | 10.7% Profil | <0.1% Sound
 - **Bindungsrate:** "Die meisten Zuschauer haben bei 0:01 aufgehört" — Hook-Problem
@@ -98,7 +104,7 @@
 ### V000 — Benchmark (Nostalgie — 640K Views)
 - **Datum:** 15.01.2023
 - **Views:** 640K | **Likes:** 94K | **Shares:** 8.446 | **Saves:** 7.934
-- **Neue Follower:** 1.300
+- **Neue Follower:** 1.300 | **Follower/1K Views:** 2.03
 - **Traffic:** 89.9% FYP | Sound: distorted memories — Øneheart & reidenshi
 - **Lektion:** Nostalgie + kurze tiefe Wahrheit + melancholischer Sound = maximaler Algorithmus-Push
 

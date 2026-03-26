@@ -1,19 +1,20 @@
 # Sukki Abi — Hook Memory System
-*Zuletzt aktualisiert: 2026-03-26 22:15 CET | V007 Live-Update integriert*
+*Zuletzt aktualisiert: 2026-03-27 | V007 finale Stats ausstehend — RANG 2 noch PRELIMINARY*
 
 ---
 
 ## Hook-Typ Performance Tabelle
 
-**WICHTIG: Sample-Größe beachten.**
-- Sample 1 = PRELIMINARY (1 Datenpunkt reicht nicht für sichere Aussage)
-- Sample 2+ = BELASTBAR
-- Für Patterns mit Sample 1: account-history.md (693 Posts) zur Validierung nutzen
+**WICHTIG: Sample-Größe + Confidence beachten.**
+- EARLY SIGNAL (<12h) = KEIN Datenpunkt — nicht in Durchschnitt einrechnen
+- PRELIMINARY (1 bestätigter Sample) = vorsichtig verwenden
+- BELASTBAR (2+ bestätigte Samples, alle >24h) = verlässlich
+- V000 (2023) = historischer Benchmark — kein gleichwertiger Sample für aktuelle Algo-Logik
 
 | Hook-Typ | Trigger-Code | Ø Completion | Ø Shares | Ø Saves | Sample-Größe | Zuverlässigkeit | Status |
 |----------|-------------|-------------|----------|---------|--------------|-----------------|--------|
 | VERLUST + ZEITDRUCK | [C]+[D] | 47% | 2.432 | 4.761 | 2 | BELASTBAR | ✅ TOP-PATTERN |
-| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 37.6% | 860 | 1.940 | 2 | BELASTBAR (V007 noch EARLY) | ✅ STARK |
+| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 35.1%* | 860 | 1.940 | 1 bestätigt + 1 EARLY | PRELIMINARY | ⚠️ STARK (wird BELASTBAR nach V007 Bestätigung) |
 | VERLUST + DIREKTE ANSPRACHE | [C]+[A] | 30.3% | 2.108 | 2.145 | 1 | PRELIMINARY | ✅ STARK |
 | IDENTITÄT + KONFLIKT | [E]+[B] | 19.2% | 1.387 | 1.934 | 1 | PRELIMINARY | ⚠️ MITTEL |
 | VERLUST + IDENTITÄT | [C]+[E] | 17.5% | 1.362 | 2.275 | 1 | PRELIMINARY | ⚠️ MITTEL |
@@ -31,11 +32,13 @@
 - Beste Themen: Vater, Zeit, Nostalgie, Vergänglichkeit
 - Empfohlene Sounds: distorted memories, 3 am walk
 
-**RANG 2 — IDENTITÄT + DIREKTE ANSPRACHE [E]+[A]**
-- Ø Completion: 37.6% (V003: 35.1% + V007 EARLY: 40%) — Ø wird nach V007 finale Stats aktualisiert
+**RANG 2 — IDENTITÄT + DIREKTE ANSPRACHE [E]+[A]** ⚠️ PRELIMINARY
+- Bestätigt: 35.1% (V003) | EARLY SIGNAL: 40% (V007 — noch nicht in Durchschnitt)
+- Ø Completion BESTÄTIGT: 35.1% | Nach V007 Bestätigung: ~37.6%
 - Ø Shares: 860 | Ø Saves: 1.940
 - Beste Themen: Selbstbild, innere Wahrheit, Charakter, Mama/Familie
 - Empfohlene Sounds: Riff 2, campxfire
+- ⚠️ WIRD BELASTBAR sobald V007 finale Stats >24h bestätigt sind
 
 **RANG 3 — VERLUST + DIREKTE ANSPRACHE [C]+[A]**
 - Ø Completion: 30.3% (V006: Ramadan/Gier)
