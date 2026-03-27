@@ -1,5 +1,5 @@
 # Sukki Abi — Hook Memory System
-*Zuletzt aktualisiert: 2026-03-27 | V007 finale Stats ausstehend — RANG 2 noch PRELIMINARY*
+*Zuletzt aktualisiert: 2026-03-27 18:56 CET | V007 finale Stats eingetragen — RANG 2 jetzt BELASTBAR*
 
 ---
 
@@ -14,7 +14,7 @@
 | Hook-Typ | Trigger-Code | Ø Completion | Ø Shares | Ø Saves | Sample-Größe | Zuverlässigkeit | Status |
 |----------|-------------|-------------|----------|---------|--------------|-----------------|--------|
 | VERLUST + ZEITDRUCK | [C]+[D] | 47% | 2.432 | 4.761 | 2 | BELASTBAR | ✅ TOP-PATTERN |
-| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 35.1%* | 860 | 1.940 | 1 bestätigt + 1 EARLY | PRELIMINARY | ⚠️ STARK (wird BELASTBAR nach V007 Bestätigung) |
+| IDENTITÄT + DIREKTE ANSPRACHE | [E]+[A] | 39.8% | 431 | 975 | 2 | BELASTBAR | ✅ STARK |
 | VERLUST + DIREKTE ANSPRACHE | [C]+[A] | 30.3% | 2.108 | 2.145 | 1 | PRELIMINARY | ✅ STARK |
 | IDENTITÄT + KONFLIKT | [E]+[B] | 19.2% | 1.387 | 1.934 | 1 | PRELIMINARY | ⚠️ MITTEL |
 | VERLUST + IDENTITÄT | [C]+[E] | 17.5% | 1.362 | 2.275 | 1 | PRELIMINARY | ⚠️ MITTEL |
@@ -32,13 +32,13 @@
 - Beste Themen: Vater, Zeit, Nostalgie, Vergänglichkeit
 - Empfohlene Sounds: distorted memories, 3 am walk
 
-**RANG 2 — IDENTITÄT + DIREKTE ANSPRACHE [E]+[A]** ⚠️ PRELIMINARY
-- Bestätigt: 35.1% (V003) | EARLY SIGNAL: 40% (V007 — noch nicht in Durchschnitt)
-- Ø Completion BESTÄTIGT: 35.1% | Nach V007 Bestätigung: ~37.6%
-- Ø Shares: 860 | Ø Saves: 1.940
-- Beste Themen: Selbstbild, innere Wahrheit, Charakter, Mama/Familie
-- Empfohlene Sounds: Riff 2, campxfire
-- ⚠️ WIRD BELASTBAR sobald V007 finale Stats >24h bestätigt sind
+**RANG 2 — IDENTITÄT + DIREKTE ANSPRACHE [E]+[A]** ✅ BELASTBAR
+- Ø Completion: 39.8% (V003: 35.1% + V007: 44.4%) — 2 bestätigte Samples
+- Ø Shares: 431 | Ø Saves: 975
+- Beste Themen: Mama/Familie, Selbstbild, innere Wahrheit, Charakter
+- Empfohlene Sounds: campxfire, Riff 2
+- ⚠️ Follower/1K Views V007 = 0.0 — Follow-Trigger auf Slide 7 stärken
+- KRITISCH: Für Mama-Thema [E]+[A] immer über [C]+[E] (40% vs 17.5%)
 
 **RANG 3 — VERLUST + DIREKTE ANSPRACHE [C]+[A]**
 - Ø Completion: 30.3% (V006: Ramadan/Gier)

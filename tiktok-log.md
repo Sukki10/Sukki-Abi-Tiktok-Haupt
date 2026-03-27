@@ -1,5 +1,5 @@
 # Sukki Abi — TikTok Video Performance Log
-*Zuletzt aktualisiert: 2026-03-27 | Gesamt analysiert: 7 | Format: Nur Swipe | V007 finale Stats ausstehend*
+*Zuletzt aktualisiert: 2026-03-27 18:56 CET | Gesamt analysiert: 7 | Format: Nur Swipe | V007 finale Stats eingetragen*
 
 ---
 
@@ -23,14 +23,18 @@
 ---
 
 ### V007 — #fürdich #mama #eltern #deutschtiktok #fyp
-- **Datum:** 26.03.2026
-- **Views:** 369 | **Completion:** 40% | **Saves:** 1 | **Neue Follower:** 0 | **Follower/1K Views:** — (EARLY SIGNAL)
-- **Gesamtspielzeit:** 52 Minuten | **Slides aufgerufen:** 3,6 von 9
-- **Traffic:** 93% FYP | 69% Non-Follower | 31% Follower
+- **Datum:** 26.03.2026 21:02 CET | **Stats:** 27.03.2026 18:56 CET (~22h nach Post)
+- **Views:** 1.119 | **Likes:** 131 | **Kommentare:** 5 | **Shares:** 2 | **Saves:** 11
+- **Neue Follower:** 0 | **Follower/1K Views:** 0.0 ⚠️
+- **Completion:** 44.4% (Slides: 4.0/9) | **Gesamtspielzeit:** 3h 44min 35sec
+- **Traffic:** 90% FYP | 4.4% Persönliches Profil | 2.6% Folge ich | 2.1% Andere
+- **Zuschauer:** 72% Nicht-Follower | 28% Follower | 77% männlich | 23% weiblich
+- **Alter:** 18-24: 44% | 25-34: 40% | 35-44: 8% | 55+: 4%
+- **Standorte:** Deutschland 65% | Österreich 17.6% | Schweiz 12.6%
 - **Hook:** Hook B — „Deine Mama fragt immer. Du antwortest seltener." [E]+[A] (Identität + Direkte Ansprache)
 - **Sound:** campxfire — original sound
-- **WINNER-CONFIDENCE:** EARLY SIGNAL — finale Stats ausstehend. KEIN harter Winner bis >24h bestätigt.
-- **Signal:** 40% Completion über [E]+[A] Durchschnitt | 93% FYP positiv | Hook B > empfohlener Hook A
+- **WINNER-CONFIDENCE:** PRELIMINARY (22h, Completion 44.4% > 35%) → CONFIRMED ab 27.03.2026 21:02 CET
+- **Lernpunkt:** 44.4% Completion = RANG 2 [E]+[A] bestätigt. Follower/1K = 0.0 — Follow-Trigger auf Slide 7 zu schwach. Hook B (User-Wahl) > Hook A (Empfehlung) — User-Instinkt richtig.
 
 ---
 
