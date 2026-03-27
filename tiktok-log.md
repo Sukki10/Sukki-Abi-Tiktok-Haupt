@@ -1,5 +1,5 @@
 # Sukki Abi — TikTok Video Performance Log
-*Zuletzt aktualisiert: 2026-03-27 18:56 CET | Gesamt analysiert: 7 | Format: Nur Swipe | V007 finale Stats eingetragen*
+*Zuletzt aktualisiert: 2026-03-27 22:11 CET | Gesamt analysiert: 8 | Format: Nur Swipe | V008 EARLY SIGNAL eingetragen*
 
 ---
 
@@ -19,6 +19,19 @@
 ---
 
 ## Video Log
+
+---
+
+### V008 — #fürdich #mama #eltern #deutschtiktok #fyp
+- **Datum:** 27.03.2026 21:00 CET | **Stats:** 27.03.2026 22:11 CET (~1h nach Post)
+- **Views:** 407 | **Likes:** — | **Kommentare:** — | **Shares:** 2 | **Saves:** 3
+- **Neue Follower:** 0 | **Follower/1K Views:** 0.0 ⚠️
+- **Completion:** 40.3% (Slides: 3.22/8) | **Gesamtspielzeit:** 57min
+- **Traffic:** 92% FYP
+- **Hook:** „Deine Mama wird älter — du merkst es zu spät" [C]+[D] (Verlust + Schuld)
+- **Sound:** distorted memories — Øneheart & reidenshi
+- **WINNER-CONFIDENCE:** EARLY SIGNAL (1h, Completion 40.3%) → PRELIMINARY ab 28.03.2026 09:00 CET
+- **Lernpunkt:** 40.3% nach 1h — ähnlich wie V007 EARLY SIGNAL (369 Views, 40%). Distorted memories erstmals mit Mama-Thema kombiniert. Morgen 09:00 finale Einschätzung.
 
 ---
 
