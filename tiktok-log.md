@@ -32,7 +32,7 @@
 - **Alter:** 18-24: 44% | 25-34: 40% | 35-44: 8% | 55+: 4%
 - **Standorte:** Deutschland 65% | Österreich 17.6% | Schweiz 12.6%
 - **Hook:** Hook B — „Deine Mama fragt immer. Du antwortest seltener." [E]+[A] (Identität + Direkte Ansprache)
-- **Sound:** campxfire — original sound
+- **Sound:** Nuages Closer
 - **WINNER-CONFIDENCE:** PRELIMINARY (22h, Completion 44.4% > 35%) → CONFIRMED ab 27.03.2026 21:02 CET
 - **Lernpunkt:** 44.4% Completion = RANG 2 [E]+[A] bestätigt. Follower/1K = 0.0 — Follow-Trigger auf Slide 7 zu schwach. Hook B (User-Wahl) > Hook A (Empfehlung) — User-Instinkt richtig.
 
