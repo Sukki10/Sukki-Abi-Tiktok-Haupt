@@ -7,6 +7,97 @@
 
 ---
 
+## 27.03.2026 — FREITAG
+
+-------------------------------------
+[BRIEF-TYP]: ALGO
+[DATUM]: 2026-03-27
+[ZEIT]: 09:15 CET
+
+DATA-STATUS: AKTUELL
+
+SUMMARY:
+Algo 2026 hat Viralitatsschwelle bei Carousels auf 70% Swipe-Completion angehoben. Neu: "Reverse Swipes" (Zurueckwischen) = staerkstes Carousel-Signal. Content der zum Nochmal-Lesen zwingt schlaegt sogar Shares.
+
+KEY INSIGHTS:
+- Completion-Schwelle 70%: Algo pusht erst ab 70% Swipe-Through in breite Distribution
+- Reverse Swipe = staerkster Carousel-Signal 2026: Slides muessen absichtlich zu dicht sein
+- Session Value als neues Ranking-Signal: emotional schwere Posts haben Vorteil
+- Shares >1% = viral-ready | Saves >2% = Referenz-Content | Likes = schwachstes Signal
+- Caption-SEO +20-40% Sichtbarkeit: Hauptkeyword in Zeile 1
+
+ACTIONABLE OUTPUT:
+- Hook-Typ heute: [E]+[A] IDENTITAT + DIREKTE ANSPRACHE
+- Thema-Prioritat: Einsamkeit (#4) oder Mama (#1)
+- Sound: Einsamkeit → apathy | Mama → campxfire
+- Caption: Keyword in Zeile 1 (Einsamkeit / Mama / Vermissen)
+
+TREND / PATTERN:
+Algo belohnt emotionale Dichte pro Slide uber Quantitat. DACH-Raum: Authentisches Vulnerability-Storytelling dominiert. Sukkis DNA = exakter Match.
+
+WARNUNG:
+Hashtag-Stuffing ohne Keyword; Slides uber 9-10; Motivational-Cliche-Hooks ohne Schmerz-Anker.
+ANTI-REPETITION: [C]+[D] + Ramadan + Counting-Progression Type 1 → GESTERN genutzt → HEUTE NICHT
+-------------------------------------
+
+-------------------------------------
+[BRIEF-TYP]: KONKURRENZ
+[DATUM]: 2026-03-27
+[ZEIT]: 10:00 CET
+
+DATA-STATUS: AKTUELL
+
+SUMMARY:
+Rahman.alc postet Pop-Kultur ohne emotionale Tiefe — minimales Wachstum trotz hoher Frequenz. "Only Skin"-Format (stille Nahaufnahme + eingeblendeter Text) etabliert sich als dominantes Format fuer emotionale Inhalte auf deutschem TikTok. Sukki ideal positioniert diese Luecke zu besetzen.
+
+KEY INSIGHTS:
+- ASKINCORE: keine frischen Daten verfuegbar (TikTok-Direktzugriff blockiert)
+- RAHMAN.ALC: Pop-Kultur-Referenzen, minimales Wachstum — Frequenz ohne DNA = kein Compound-Effekt
+- Luecke: "Only Skin"-Format kaum von emotionalen Creatorn im deutschen Raum bedient
+
+ACTIONABLE OUTPUT:
+- Konzept: Sukki in ruhiger Nahaufnahme, Text ueber "das letzte Mal etwas tun ohne es zu wissen"
+- Hook-Empfehlung: [E]+[A] Mama/Familie — "Meine Mutter hat heute Nacht gebetet — ich hab zugeschaut"
+- SEO-Begriff: #ramadanende und #vergaenglich zeigen starkes organisches Signal
+
+TREND / PATTERN:
+Stille Nahaufnahme + eingeblendeter Text uber Trauer/Verlust ("Only Skin"-Format) dominiert emotionale deutsche TikTok-Szene. Kein Schnitt, keine Energie — reine Stimmung. Algo 2026 priorisiert Watch Time + Repeat Views.
+
+WARNUNG:
+Rahman.alcs Pop-Kultur-Ansatz nicht kopieren. "Du schaffst das"-Formate weiterhin uebersaettigt.
+-------------------------------------
+
+-------------------------------------
+[BRIEF-TYP]: DAILY BRIEF
+[DATUM]: 2026-03-27
+[ZEIT]: 11:30 CET
+
+DATA-STATUS: STALE — 2 Tage (V007 ohne finale Stats zum Zeitpunkt des Briefs)
+CHAIN-STATUS: BROKEN (keine Algo/Konkurrenz-Briefs im Archiv zum Zeitpunkt)
+WINNER-STATUS: CONFIRMED — [C]+[D] Verlust/Zeit (V004: 47% Completion)
+
+SUMMARY:
+Mama/Zeit + TOP-PATTERN [C]+[D]. Anti-Repetition: gestern Ramadan/[C]+[D] → heute Mama/[C]+[D].
+
+KEY INSIGHTS:
+- V004 Vater/Zeit = 47% Completion — staerkstes Signal im Log
+- Mama-Content = hoeChste Save-Rate des Kanals (14.8%)
+- [C]+[D] = 2 bestaetigte Samples, zuverlaessigster Hook-Typ
+
+ACTIONABLE OUTPUT:
+- Hook A: "Deine Mama wird aelter — du merkst es zu spaet" | [C]+[D]
+- Caption: deine Mama vermisst dich
+- Sound: distorted memories — Oneheart & reidenshi
+- Format: Typ 1 Zaehl-Progression (Kind → Teenager → Auszug → Heute)
+- Hashtags: #fuerdich #mama #elternliebe #zeitlaeuft #fyp
+
+TREND / PATTERN:
+[C]+[D] TOP-PATTERN unveraendert staerkster Hook-Typ. Mama-Thema + Zeit-Struktur = hoeChstes Viral-Potenzial.
+
+WARNUNG:
+CHAIN BROKEN — morgen Algo + Konkurrenz-Briefs vor Daily Brief ins Archiv eintragen.
+-------------------------------------
+
 ## DAILY BRIEF — Donnerstag, 26.03.2026
 **COMMAND-MODUS | Posten: 21:00 CET**
 Follower: 52.814 | Ziel: 100K | Noch: ~47.200
