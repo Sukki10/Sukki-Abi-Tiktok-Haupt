@@ -10,6 +10,69 @@
 ## 28.03.2026 — SAMSTAG
 
 -------------------------------------
+[BRIEF-TYP]: ALGO
+[DATUM]: 2026-03-28
+[ZEIT]: 09:30 CET
+
+DATA-STATUS: AKTUELL — letzter Eintrag V008 vom 27.03.2026, 21:00 CET (~12h alt)
+
+SUMMARY:
+TikTok-Algo 2026 hat Viral-Schwelle fuer Carousel-Content auf ~70% Swipe-Completion angehoben. Reverse Swipes = staerkstes Einzel-Signal — jede Slide muss so dicht sein dass Nutzer zurueckscrollen.
+
+KEY INSIGHTS:
+- Completion-Schwelle 70%: V008 bei 40.3% → unter neuem Threshold, Optimierungsbedarf
+- Share >1% schlaegt hohe Like-Zahlen absolut. Save >2% = High-Value-Signal. Erste 60min = kritische Spark Phase
+- Hook-Pattern [E]+[A]: 39.8% Completion BELASTBAR — direkte Anrede triggert hoechste Share-Bereitschaft
+
+ACTIONABLE OUTPUT:
+- Hook-Typ heute: [E]+[A] Identity + Direct Address
+- Thema-Prioritaet: Mama/Familie — Save-Rate 14.8% = staerkstes Qualitaetssignal
+- Sound-Empfehlung: campxfire (Familie/Eltern, 204K+ bestaetigt) | alternativ apathy
+
+TREND / PATTERN:
+Authentische Verluszlichkeit ohne Ueberproduktion dominiert. Reverse-Swipe-Trigger: Slide-Inhalt verdichten. Evening-Engagement 21:00 CET bleibt optimal bestaetigt (+23% vs 2025).
+
+WARNUNG:
+- NICHT [C]+[D] Hook — am 27.03. bereits empfohlen
+- NICHT Ramadan-Thema — 27.03. zweifach verwendet
+- NICHT Sound "3 am walk" — gestern empfohlen
+- V008 Status PENDING — keine Schluesse bis 24h-Auswertung
+-------------------------------------
+
+---
+
+-------------------------------------
+[BRIEF-TYP]: KONKURRENZ
+[DATUM]: 2026-03-28
+[ZEIT]: 10:30 CET
+
+DATA-STATUS: AKTUELL (letzter Log-Eintrag: 27.03.2026, 22:11 CET — <12h)
+
+SUMMARY:
+Deutscher emotionaler TikTok-Raum 2026 strukturell unterbesetzt. @rahman.alc macht Pop-Culture, kein emotionales Storytelling. @askincore Primaer-Konkurrenz aber keine neuen Signale. Plattform pusht Vulnerability + Authentizitaet als Gegenbewegung zur KI-Uebersaettigung.
+
+KEY INSIGHTS:
+- GROSSE CREATOR (>100K): Vulnerability-Format dominiert — Kamera laeuft waehrend echter verletzlicher Momente + emotionaler Vocal. Completion >=70% = Algo-Push. Reverse Swipes = staerkstes Engagement-Signal
+- KLEINE CREATOR (<100K): "Only Skin"-Format (stille Nahaufnahme + Text-Overlay, keine Stimme) im deutschsprachigen emotionalen Raum UNBESETZT. @rahman.alc Pop-Culture = minimales Wachstum
+- LUECKE: Sukki hat Format-Monopol auf 8-Slide + Zaehl-Progression. Kombination persoenliche Stimme + Verlust + Zaehl-Struktur + DACH-Deutsch unbesetzt. Ungenuetzte Luecke: "stille Kamera laeuft gerade"-Aesthetik als Hook
+
+ACTIONABLE OUTPUT:
+- Konzept: Eid-Nostalgie (Ramadan endete 20.03.) — Fenster noch 5-7 Tage offen
+- Hook aus Luecke: Statisches Kamerabild 2-3 Sekunden ohne Text → dann Zitat. Niemand in deutscher Emotional-Nische macht diese Stille als Hook
+- SEO stark: "ohne es zu wissen" | "letztes Mal" | "Ramadan vorbei" + "Zuckerfest"
+
+TREND / PATTERN:
+"Irreplaceable Instinct"-Format dominiert: kein Perfektion, keine Erklaerungen. Authentizitaet als Algorithmus-Vorteil. Im deutschen Raum noch kaum umgesetzt — frueherer Einstieg = Wettbewerbsvorteil.
+
+WARNUNG:
+- UEBERSAETTIGT: generische Motivations-Slides, Pop-Culture ohne emotionalen Kern
+- Ramadan-Content nach 5. April nicht mehr posten — Fenster schliesst
+- Slides mit mehr als einem zentralen Gedanken pro Folie vermeiden
+-------------------------------------
+
+---
+
+-------------------------------------
 [BRIEF-TYP]: DAILY BRIEF
 [DATUM]: 2026-03-28
 [ZEIT]: 18:30 CET
