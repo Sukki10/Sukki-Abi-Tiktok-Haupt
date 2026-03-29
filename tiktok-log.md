@@ -28,7 +28,7 @@
 - **Neue Follower:** — | **Follower/1K Views:** —
 - **Completion:** — | **Gesamtspielzeit:** —
 - **Traffic:** —
-- **Hook:** Hook C (Kindheit/Nostalgie) — genauen Text bestätigen | [C]+[E] (Verlust + Identität) | PRELIMINARY
+- **Hook:** „Es gibt ein Foto aus deiner Kindheit, das du nie wiederholst." [C]+[E] (Verlust + Identität)
 - **Sound:** someone you love *(neu getestet — erster Einsatz)*
 - **WINNER-CONFIDENCE:** EARLY SIGNAL bis 30.03.2026 08:10 | PRELIMINARY ab 08:10 | CONFIRMED ab 30.03.2026 20:10
 - **Lernpunkt:** Themenwechsel von Mama → Kindheit/Nostalgie. someone you love als neuer Sound. Creator Instinct Framework (PROTOKOLL 16+17) zum ersten Mal aktiv. Hook C gewählt statt empfohlenem Hook A.
