@@ -68,8 +68,9 @@
 
 | Datum | Hook-Text (Auszug) | Typ-Codes | Completion | Shares | Saves | Neue Follower | Confidence |
 |-------|--------------------|-----------|-----------|--------|-------|---------------|------------|
-| 27.03.2026 | Deine Mama wird älter — du merkst es zu spät | [C]+[D] | 46.25% | 5 | 20 | 0 | PRELIMINARY (~21h) → CONFIRMED ab 28.03 21:00 |
-| 26.03.2026 | Deine Mama fragt immer. Du antwortest seltener. | [E]+[A] | 44.4% | 2 | 11 | 0 | CONFIRMED (22h) |
+| 28.03.2026 | Deine Mama braucht dich — aber fragt nie danach. | [E]+[A] | 42.5% | 3 | 7 | 1 | PRELIMINARY (~16h) → CONFIRMED ab 29.03 21:00 |
+| 27.03.2026 | Deine Mama wird älter — du merkst es zu spät | [C]+[D] | 46.25% | 5 | 20 | 0 | CONFIRMED |
+| 26.03.2026 | Deine Mama fragt immer. Du antwortest seltener. | [E]+[A] | 44.4% | 2 | 11 | 0 | CONFIRMED |
 | 19.02.2026 | Gier-Thema Ramadan | [C]+[A] | 30.3% | 2.108 | 2.145 | 200 | CONFIRMED |
 | 03.12.2025 | Mama-Thema | [C]+[E] | 17.5% | 1.362 | 2.275 | 158 | CONFIRMED |
 | 02.12.2025 | Vater/Zeit | [C]+[D] | 47% | 1.960 | 1.588 | 133 | CONFIRMED |

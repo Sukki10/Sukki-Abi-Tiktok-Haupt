@@ -69,7 +69,8 @@
 **Mama-Thema Beweis (aktualisiert 28.03.2026):**
 - V005 Mama + Hook [C]+[E] = **17.5% Completion**
 - V007 Mama + Hook [E]+[A] = **44.4% Completion** (CONFIRMED)
-- V008 Mama + Hook [C]+[D] = **46.25% Completion** (PRELIMINARY → CONFIRMED 28.03 21:00)
+- V008 Mama + Hook [C]+[D] = **46.25% Completion** (CONFIRMED)
+- V009 Mama + Hook [E]+[A] = **42.5% Completion** + **Follower/1K 1.85** ✅ (PRELIMINARY)
 
 → Gleiches Thema, falscher Hook = halb so gut.
 → Thema wählen ist nicht genug. Hook-Typ ist genauso wichtig.
@@ -102,7 +103,7 @@
 - **Einsamkeit / innerer Schmerz** → apathy — Øneheart
 - **Leise Melancholie / Nacht** → snowfall — Øneheart & reidenshi
 - **Schwere Lebensthemen / Opfer** → Path - gelieebt
-- **Familie / Eltern / Dankbarkeit** → original sound - campxfire | fragrant (V009 Test 28.03.2026)
+- **Familie / Eltern / Dankbarkeit** → original sound - campxfire | fragrant ✅ (V009: 42.5% Completion, Follow-Conversion 1.85/1K)
 - **Selbstreflexion / Listen** → Riff 2 — Flawed Mangoes
 - **Wachstum / Hoffnung (2026)** → Birdsong snippet — flawedmangoes
 - **Fokus / Ruhe / Stärke (2026)** → Brown noise — Pure Brown Noise
