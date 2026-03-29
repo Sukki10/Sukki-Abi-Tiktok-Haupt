@@ -87,14 +87,28 @@
 - ~~19:00 Uhr~~ → nur Ø 12.400 — 4% weniger Reichweite als 21:00
 - Schlechteste Zeiten: 02:00–06:00 Uhr (unter 3.000 aktive Follower)
 
-## Multi-Posting Strategie (AB 29.03.2026 AKTIV)
-- **1 Video/Tag:** 21:00 CEST — Hauptslot, immer stärkstes Konzept
-- **2 Videos/Tag:** 12:00 CEST + 21:00 CEST ← OPTIMALE KOMBINATION
-  - 12:00 = Mittagspause, 2. bestes Engagement-Fenster DACH 18-34 männlich
-  - 21:00 = Peak 12.900 aktive Follower (bestätigt)
-  - 9h Abstand = kein Kannibalisierungs-Risiko
-- **Regel:** 21:00 = stärkstes Konzept (Typ1/2/3 bewährt) | 12:00 = Dialog-Story Test (Typ4)
-- Nie 2× gleicher Format-Typ am selben Tag
+## Posting-Slots (FINALISIERT 29.03.2026)
+
+- **Slot A: 15:30–16:30 CEST** — Dialog Story (Typ 1) | Nachmittag, Schule/Arbeit endet
+- **Slot B: 20:30–21:30 CEST** — Emotional/Hope/Escape (Typ 2/3/4) | Abend-Peak
+- **Slot C (Test only): 12:00–13:00 ODER 22:30** — nur bei 4+ schwachen Tagen in Folge
+- **Default: 2 Videos/Tag** (Slot A + B)
+- Nie gleicher Format-Typ zweimal am selben Tag
+
+## Content Formate (4 Typen)
+
+| Typ | Name | Slots | Struktur |
+|-----|------|-------|---------|
+| 1 | DIALOG STORY | A | Hook → Build-up → Twist → Lesson | 2 Chars, 1 Satz/Slide |
+| 2 | INNER BREAK | B | Gedanke → Eskalation → Stille Wahrheit → Frage |
+| 3 | ESCAPE/REALITY | B | Problem → Flucht → Zeit → Wahrheit kehrt zurück |
+| 4 | HOPE CORE | B | "Hoffentlich..." Struktur, sanfte Emotion |
+
+## Hook-Typen (täglich tracken)
+CURIOSITY | JUDGEMENT | EMOTIONAL PAIN | CONFLICT | HOPE
+
+## Test-Regel (täglich NUR 1 Variable)
+Hook | Thema | Emotion | Format | Zeit — niemals mehrere gleichzeitig
 
 ## CTAs die funktionieren (BESTÄTIGT)
 - Direkte Frage auf letztem Slide → Kommentare
