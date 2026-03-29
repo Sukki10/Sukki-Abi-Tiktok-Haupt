@@ -7,6 +7,41 @@
 
 ---
 
+## 29.03.2026 — SONNTAG
+
+-------------------------------------
+[BRIEF-TYP]: ALGO
+[DATUM]: 2026-03-29
+[ZEIT]: 14:45 CET
+
+DATA-STATUS: AKTUELL (letzter Log-Eintrag 29.03.2026, 13:23 CET — <2h alt)
+
+SUMMARY:
+Reverse Swipes = staerkstes Carousel-Signal 2026 (~30% staerker als Completion). Saves + Shares dominieren FYP-Ranking, Likes = schwachstes Signal.
+
+KEY INSIGHTS:
+- REVERSE SWIPE > COMPLETION: Rueckwaerts-Swipes gelten als hoechstes Carousel-Qualitaetssignal — jede Slide muss einen "warte mal"-Moment haben
+- SAVE >2% / SHARE >1% = Algo-Schwelle fuer Eskalation in Stufe 2 (1K-50K)
+- SEO TRIPLE-INDEXING: Caption + gesprochenes Keyword + On-Screen-Text = dreifache Indexierung
+
+ACTIONABLE OUTPUT:
+- Hook-Typ heute: [B]+[D] ATMOSPHAERISCHER EINSTIEG — stille Beobachtung + Zeitdruck, kein "du/dein"
+- Thema-Prioritaet: VATER (#5) oder ZEIT/NOSTALGIE (#3) | SONDERFENSTER: Eid al-Fitr in 24-48h
+- Sound: distorted memories | alternativ: Path - gelieebt
+- Posting-Zeit: 19:00-20:00 CET (Sonntag-Peak DE)
+
+TREND / PATTERN:
+Follower-first Testing seit Ende 2025: neue Videos gehen zuerst an Bestandsfollower — Hook-Qualitaet bei 52K entscheidet ueber Eskalation. Vulnerability + ruhige Kamera + Texttafel dominiert deutschen FYP.
+
+WARNUNG:
+- GESPERRT: [E]+[A] (28.03 + 27.03 empfohlen)
+- GESPERRT: [C]+[D] (28.03 + 27.03 + 26.03 empfohlen)
+- GESPERRT: Mama-Thema (V007/V008/V009 konsekutiv)
+- PAUSE: campxfire, fragrant, 3 am walk
+-------------------------------------
+
+---
+
 ## 28.03.2026 — SAMSTAG
 
 -------------------------------------
