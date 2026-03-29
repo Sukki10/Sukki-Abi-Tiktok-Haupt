@@ -24,6 +24,28 @@
 
 ---
 
+## CONTENT HOOK-TYP TRACKING (NEU AB 29.03.2026)
+
+Neben den Trigger-Codes [A-E] wird jetzt auch der narrative Hook-Typ pro Video getrackt.
+→ Ziel: herausfinden welcher Hook-Typ die höchste Completion + Follow-Rate liefert.
+
+| Hook-Typ | Was es ist | Videos getestet | Ø Completion | Ø Follows/1K | Status |
+|----------|-----------|-----------------|-------------|--------------|--------|
+| JUDGEMENT | Vorverurteilung → Twist | V001, V006 | ~23% | ~0.5 | PRELIMINARY |
+| EMOTIONAL PAIN | direkter Schmerz, Verlust | V004, V005, V008 | ~37% | ~0.8 | PRELIMINARY |
+| CURIOSITY | Neugier, offene Frage | V003 | 35.1% | 0.56 | PRELIMINARY |
+| CONFLICT | Streit, Missverständnis | V002 | 19.2% | 1.10 | PRELIMINARY |
+| HOPE | Sehnsucht, "Hoffentlich..." | V007, V009 | ~43% | ~0.9 | PRELIMINARY |
+
+**Frühindikation (noch unzuverlässig — mehr Daten nötig):**
+- HOPE + EMOTIONAL PAIN → höchste Completion bisher
+- CONFLICT → hohe Follows aber niedrige Completion
+- JUDGEMENT (Dialog Story Twist) → noch ungetestet als eigenes Format
+
+*Wird nach jedem analyze-Modus automatisch aktualisiert.*
+
+---
+
 ## Top-Pattern (priorisieren)
 
 **RANG 1 — VERLUST + ZEITDRUCK [C]+[D]**

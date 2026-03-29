@@ -21,11 +21,12 @@
 
 ## Konkurrenz-Monitor Agent — Scan-Anweisung
 
-Täglich (10:00 CET):
-1. @askincore letzte 5 Videos → Hook-Typen, Themes, Performance-Schätzung
-2. @rahman.alc letzte 5 Videos → Posting-Timing, Frequenz, Follower-Impact
-3. Lücken identifizieren → Sukkis Chance
-4. Nur 1–3 verwertbare Erkenntnisse. Kein Filler.
+Täglich (automatisch via Trigger 02:30 CEST):
+1. @askincore letzte 5 Videos → Hook-Typen, Format (Dialog/Inner/Escape/Hope), Themes
+2. @rahman.alc letzte 5 Videos → Posting-Timing (15:30? 20:30?), Frequenz, Follower-Impact
+3. Nutzen die Konkurrenz Dialog Story Format? Wie ist ihre Struktur?
+4. Lücken identifizieren → was macht Sukki besser oder anders
+5. Nur 1–3 verwertbare Erkenntnisse. Kein Filler.
 
 WebSearch: Deutsche emotionale TikTok Creator [aktueller Monat]
 
