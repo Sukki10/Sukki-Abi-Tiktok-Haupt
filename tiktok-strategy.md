@@ -85,8 +85,15 @@
 - **Optimal: 21:00 Uhr CET** — Peak-Aktivität Ø 12.900 aktive Follower
 - **Alternativ: 20:00 Uhr CET** — Ø 12.500, ebenfalls stark
 - ~~19:00 Uhr~~ → nur Ø 12.400 — 4% weniger Reichweite als 21:00
-- **1 Video pro Tag** — jeden Tag, 7x pro Woche
 - Schlechteste Zeiten: 02:00–06:00 Uhr (unter 3.000 aktive Follower)
+
+## Multi-Posting Strategie (AB 29.03.2026 AKTIV)
+- **1 Video/Tag (Standard):** 21:00 CET — wie bisher
+- **2 Videos/Tag:** 14:00 CET + 21:00 CET
+- **3 Videos/Tag:** 10:00 CET + 16:00 CET + 21:00 CET
+- **Regel:** 21:00 immer das stärkste Konzept (Haupt-Slot). Frühere Slots = Tests
+- **Format-Verteilung bei 3 Videos:** 1× Dialog-Story + 1× Zitat/Viral Hook + 1× Lehrreich/Progression
+- Nie 3× gleicher Stil am gleichen Tag — Variation zieht verschiedene Zuschauertypen
 
 ## CTAs die funktionieren (BESTÄTIGT)
 - Direkte Frage auf letztem Slide → Kommentare
@@ -150,6 +157,37 @@
 - **Konsequenz:** 100% Deutsch. Keine englischen Wörter. Kein Balkan-Slang der DE-Publikum ausschließt.
 - Kulturelle Referenzen: deutsches Alltagsleben, Schule/Ausbildung/Arbeit in DE, Winter/Herbst-Atmosphäre
 - Ramadan/Islam funktioniert weil muslimische Minderheit in DACH groß und aktiv ist
+
+## NEUES FORMAT: Dialog-Story (AB 29.03.2026 IM TEST)
+
+**Format-DNA (aus Sukkis eigenem Referenz-Content):**
+- 2 Charaktere — immer Sukki + eine andere Person
+- 8–20 Slides — jede Slide = 1 kurzer Satz, kein Satz mehr
+- Kein Erzähler — nur Dialogue
+- Struktur: HOOK (Slide 1–2) → BUILD-UP (Eskalation) → TWIST (unerwartete Wahrheit) → LESSON (letzter Slide direkt, ohne Anführungszeichen)
+- Sprache: sehr einfaches Deutsch, Alltagssprache, kurze Sätze, emotional
+- Kern-Themen: Urteil vs. Realität, Loyalität/Verrat, Geld/Versagen/Comeback, Familie/Verantwortung, "er sieht schwach aus aber..."
+- **Viral-Mechanismus:** Zuschauer urteilt mit den Charakteren → Twist zerstört das Urteil → moralische Lektion = Share-Trigger
+
+**Unterschied zum alten Format:**
+- Alt: 1 Stimme, Zähl-Progression, philosophisch
+- Neu: 2 Stimmen, Story-Progression, dramatisch
+- Beide bleiben Sukki-typisch — nie Englisch, nie Predigt, nur echte Emotionen
+
+**Referenz-Video (bewiesene Struktur):**
+Hook: "Omg guck mal da" / "Er hat uns doch abgesagt" → Build-up: Eskalation, Urteil der Charaktere → Twist: "Ich arbeite zurzeit hier als Putzkraft... er hat uns leider verlassen" → Lesson: "Schon wieder hast du geurteilt ohne die Wahrheit zu kennen"
+
+**Sound-Zuordnung Dialog-Story:**
+- Emotional/Twist → distorted memories | someone you love
+- Respekt/Comeback → 3 am walk — daniel.mp3
+- Familie/Opfer → campxfire | fragrant
+
+**Wann einsetzen:**
+- Als 10:00 oder 16:00 Slot (Früh-Test)
+- Wenn Thema "Urteil vs. Realität" oder "Geld/Familie/Respekt" passt
+- Nie 2× Dialog-Story am gleichen Tag
+
+---
 
 ## Konkurrenz & Inspirations-Referenzen
 - **@askincore** — macht Videos (kein Swipe), aber starke Hooks und Zitate — gut für Hook-Inspiration
