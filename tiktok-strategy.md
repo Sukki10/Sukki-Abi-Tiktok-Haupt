@@ -88,12 +88,13 @@
 - Schlechteste Zeiten: 02:00–06:00 Uhr (unter 3.000 aktive Follower)
 
 ## Multi-Posting Strategie (AB 29.03.2026 AKTIV)
-- **1 Video/Tag (Standard):** 21:00 CET — wie bisher
-- **2 Videos/Tag:** 14:00 CET + 21:00 CET
-- **3 Videos/Tag:** 10:00 CET + 16:00 CET + 21:00 CET
-- **Regel:** 21:00 immer das stärkste Konzept (Haupt-Slot). Frühere Slots = Tests
-- **Format-Verteilung bei 3 Videos:** 1× Dialog-Story + 1× Zitat/Viral Hook + 1× Lehrreich/Progression
-- Nie 3× gleicher Stil am gleichen Tag — Variation zieht verschiedene Zuschauertypen
+- **1 Video/Tag:** 21:00 CEST — Hauptslot, immer stärkstes Konzept
+- **2 Videos/Tag:** 12:00 CEST + 21:00 CEST ← OPTIMALE KOMBINATION
+  - 12:00 = Mittagspause, 2. bestes Engagement-Fenster DACH 18-34 männlich
+  - 21:00 = Peak 12.900 aktive Follower (bestätigt)
+  - 9h Abstand = kein Kannibalisierungs-Risiko
+- **Regel:** 21:00 = stärkstes Konzept (Typ1/2/3 bewährt) | 12:00 = Dialog-Story Test (Typ4)
+- Nie 2× gleicher Format-Typ am selben Tag
 
 ## CTAs die funktionieren (BESTÄTIGT)
 - Direkte Frage auf letztem Slide → Kommentare
