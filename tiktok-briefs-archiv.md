@@ -42,6 +42,36 @@ WARNUNG:
 
 ---
 
+-------------------------------------
+[BRIEF-TYP]: KONKURRENZ
+[DATUM]: 2026-03-29
+[ZEIT]: 14:45 CET
+
+DATA-STATUS: AKTUELL (letzter Log-Eintrag: 29.03.2026, 13:23 CET — heute)
+
+SUMMARY:
+Deutscher emotionaler TikTok-Raum wird vom Verletzlichkeits-Format dominiert. @rahman.alc besetzt Pop-Kultur (kein emotionales Storytelling). Sukkis Kernraum weitgehend unbesetzt.
+
+KEY INSIGHTS:
+- GROSSE CREATOR (>100K): "Reali-Tea"-Bewegung dominiert — Verletzlichkeit ohne Loesung. Delayed Reveal + Relatable Story Arc = fuehrende virale Formate. Emotional ROI hat Likes als Hauptmetrik abgeloest
+- KLEINE CREATOR (<100K): Strukturierte emotionale Carousel-Nische unter 100K praktisch unbesetzt. @rahman.alc nur Posting-Frequenz ohne Hook-System
+- LUECKE: Niemand kombiniert psychologisches Hook-System mit tiefemotionalen Swipe-Progressionen auf Sukkis Niveau. V009 Follower/1K=1.85 bestaetigt direkte Ansprache funktioniert
+
+ACTIONABLE OUTPUT:
+- Konzept: "Das letzte Mal, dass du nicht wusstest, dass es das letzte Mal war" — [C]+[D] Vater/Familie
+- Slide 7: "dieser Kanal ist fuer dich" wiederholen (V009-Effekt bestaetigen)
+- SEO stark: #nachdenklich #echteGefuehle #Vaeter (Ramadan-Ende + Ostern = doppelter Familien-Trigger)
+
+TREND / PATTERN:
+"Verletzlichkeit ohne Aufloesung" dominiert — Gefuehl benennen und stehen lassen, kein Erklaeren. Passt 1:1 zu Sukkis DNA.
+
+WARNUNG:
+- Uebersaettigt: generischer Motivations-Content, Glow-Up-Transformationen, Challenge-Formate
+- Vermeiden: Raw-Vulnerability ohne Struktur, englische Phrasen, direkte Handlungsaufforderungen
+-------------------------------------
+
+---
+
 ## 28.03.2026 — SAMSTAG
 
 -------------------------------------
