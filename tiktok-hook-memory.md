@@ -1,5 +1,5 @@
 # Sukki Abi — Hook Memory System
-*Zuletzt aktualisiert: 2026-03-28 CET | V008 PRELIMINARY eingetragen — [C]+[D] neuer moderner Sample*
+*Zuletzt aktualisiert: 2026-03-30 CET | V010 PRELIMINARY (~10h) eingetragen — Hook-Typ Rangliste extern bestätigt*
 
 ---
 
@@ -37,10 +37,12 @@ Neben den Trigger-Codes [A-E] wird jetzt auch der narrative Hook-Typ pro Video g
 | CONFLICT | Streit, Missverständnis | V002 | 19.2% | 1.10 | PRELIMINARY |
 | HOPE | Sehnsucht, "Hoffentlich..." | V007, V009 | ~43% | ~0.9 | PRELIMINARY |
 
-**Frühindikation (noch unzuverlässig — mehr Daten nötig):**
-- HOPE + EMOTIONAL PAIN → höchste Completion bisher
-- CONFLICT → hohe Follows aber niedrige Completion
-- JUDGEMENT (Dialog Story Twist) → noch ungetestet als eigenes Format
+**Stand 30.03.2026 — intern + extern bestätigt (Algo Brief):**
+- HOPE → höchste Completion (~43%) — extern algo-bestätigt (TikTok Hyper-Utility-Trend)
+- EMOTIONAL PAIN → zweitbeste Completion (~37%) — algo-kompatibel
+- CURIOSITY → solide Completion (35.1%) über kognitiven Gap — spezifisch + offene Auflösung
+- CONFLICT → hohe Follows aber niedrige Completion — Twist muss sofort in ≤1.5 Sek. greifen
+- JUDGEMENT → schwächste Completion (~23%) — heute V011 erster gezielter Test als Dialog Story
 
 *Wird nach jedem analyze-Modus automatisch aktualisiert.*
 
@@ -90,6 +92,7 @@ Neben den Trigger-Codes [A-E] wird jetzt auch der narrative Hook-Typ pro Video g
 
 | Datum | Hook-Text (Auszug) | Typ-Codes | Completion | Shares | Saves | Neue Follower | Confidence |
 |-------|--------------------|-----------|-----------|--------|-------|---------------|------------|
+| 29.03.2026 | Es gibt ein Foto aus deiner Kindheit, das du nie wiederholst. | [C]+[E] | 43.8% (10h) | 8 | 11 | 0 | PRELIMINARY (~10h) → CONFIRMED ab 30.03 20:10 |
 | 28.03.2026 | Deine Mama braucht dich — aber fragt nie danach. | [E]+[A] | 42.5% | 3 | 7 | 1 | PRELIMINARY (~16h) → CONFIRMED ab 29.03 21:00 |
 | 27.03.2026 | Deine Mama wird älter — du merkst es zu spät | [C]+[D] | 46.25% | 5 | 20 | 0 | CONFIRMED |
 | 26.03.2026 | Deine Mama fragt immer. Du antwortest seltener. | [E]+[A] | 44.4% | 2 | 11 | 0 | CONFIRMED |

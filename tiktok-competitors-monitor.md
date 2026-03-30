@@ -1,6 +1,6 @@
 # Sukki Abi — Konkurrenz Monitoring Liste
 
-*Zuletzt aktualisiert: 2026-03-26*
+*Zuletzt aktualisiert: 2026-03-30*
 
 ## Zu monitorende Creator
 
@@ -40,4 +40,8 @@ Format: `[Monat Jahr] | @Account | Beobachtung | Sukkis Reaktion`
 ### Beobachtungs-Log
 | Datum | Account | Beobachtung | Lücke für Sukki |
 |-------|---------|-------------|-----------------|
+| 30.03.2026 | DACH allgemein | TYP 2 (Inner Break / innerer Monolog) in gesamter DACH Konkurrenz unbesetzt | Sukki sollte TYP 2 testen — erste-mover-Vorteil |
+| 30.03.2026 | DACH allgemein | TYP 3 (Escape/Reality) verliert Reichweite wenn kein Reality-Anker | TYP 3 nur mit Erdung einsetzen |
+| 30.03.2026 | DACH allgemein | TYP 4 (Hope Core) algorithmisch steigend — Konkurrenz nutzt es nicht systematisch | HOPE + EMOTIONAL PAIN als System skalieren |
+| 30.03.2026 | @rahman.alc | Audio-first statt Text-Slide, ~10 Follower in 2-3 Wochen — kein Wachstum | Kein Bedrohungslevel. Text-Slide bleibt Sukkis Vorteil |
 | 26.03.2026 | @rahman.alc | Neu ins Monitoring aufgenommen, oft postend | Posting-Frequenz Vergleich |
