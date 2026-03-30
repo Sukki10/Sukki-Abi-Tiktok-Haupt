@@ -1,5 +1,5 @@
 # Sukki Abi — TikTok Video Performance Log
-*Zuletzt aktualisiert: 2026-03-29 20:15 CET | Gesamt analysiert: 9 | Format: Nur Swipe | V010 gepostet — Stats ausstehend*
+*Zuletzt aktualisiert: 2026-03-30 05:45 CET | Gesamt analysiert: 9 | Format: Nur Swipe | V010 EARLY SIGNAL (~10h) — CONFIRMED ab 30.03.2026 20:10*
 
 ---
 
@@ -23,15 +23,16 @@
 ---
 
 ### V010 — #fürdich #kindheit #nostalgie #tiefgedanken #fyp
-- **Datum:** 29.03.2026 20:10 CET | **Stats:** ausstehend (analyze nach 24h → 30.03.2026 20:10 CET)
-- **Views:** — | **Likes:** — | **Kommentare:** — | **Shares:** — | **Saves:** —
-- **Neue Follower:** — | **Follower/1K Views:** —
-- **Completion:** — | **Gesamtspielzeit:** —
-- **Traffic:** —
+- **Datum:** 29.03.2026 20:10 CET | **Stats:** EARLY SIGNAL ~10h (30.03.2026 ~05:45 CET) | CONFIRMED ab 30.03.2026 20:10
+- **Views:** 764 | **Likes:** 106 | **Kommentare:** 4 | **Shares:** 8 | **Saves:** 11
+- **Neue Follower:** 0 | **Follower/1K Views:** 0
+- **Like-Rate:** 13.9% ✅ stark | **Save-Rate:** 1.4% ✅ | **Share-Rate:** 1.0%
+- **Avg. Slides:** 3.5/8 (43.8% Completion) — Hook zieht rein, Drop-off in der Mitte
+- **Gesamtspielzeit:** 1h 49min (~6.5 Minuten Ø pro Viewer)
 - **Hook:** „Es gibt ein Foto aus deiner Kindheit, das du nie wiederholst." [C]+[E] (Verlust + Identität)
 - **Sound:** someone you love *(neu getestet — erster Einsatz)*
-- **WINNER-CONFIDENCE:** EARLY SIGNAL bis 30.03.2026 08:10 | PRELIMINARY ab 08:10 | CONFIRMED ab 30.03.2026 20:10
-- **Lernpunkt:** Themenwechsel von Mama → Kindheit/Nostalgie. someone you love als neuer Sound. Creator Instinct Framework (PROTOKOLL 16+17) zum ersten Mal aktiv. Hook C gewählt statt empfohlenem Hook A.
+- **WINNER-CONFIDENCE:** PRELIMINARY (10h) → CONFIRMED ab 30.03.2026 20:10
+- **Lernpunkt (10h):** Like-Rate 13.9% stark → Thema resoniert. Completion 43.8% → Mitte der Slides verliert. 0 Follower bei 764 Views → noch kein Algorithmus-Push. Bestätigt: Kindheit/Nostalgie + someone you love funktioniert.
 
 ---
 
